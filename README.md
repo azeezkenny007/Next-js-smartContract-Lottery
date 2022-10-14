@@ -22,6 +22,6 @@
     
  
 ## 🚲 Link to the decentralized raffle 
-    - [The hardhat Raffle](https://shiny-meadow-1882.on.fleek.co/)
+ [The hardhat Raffle](https://shiny-meadow-1882.on.fleek.co/)
     
   
